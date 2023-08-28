@@ -1,6 +1,6 @@
 <h1 align="center">Howdy 👋, I'm Dibyendu</h1>
 <h3 align="center">A Software Test Engineer from Kolkata,India,Deeply Driven by Passion for Automation.</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dibyendugithub&label=Profile%20views&color=0e75b6&style=flat" alt="dibyendugithub" /> </p>
 
 - 💬 Ask me about **Selenium-Java-Automation**
