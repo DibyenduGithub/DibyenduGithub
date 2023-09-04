@@ -3,8 +3,6 @@
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dibyendugithub&label=Profile%20views&color=0e75b6&style=flat" alt="dibyendugithub" /> </p>
 
-- 💬 Ask me about **Selenium-Java-Automation**
-
 - 📫 Reach me @ **dibyendu.workspace@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
