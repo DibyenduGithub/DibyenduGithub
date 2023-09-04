@@ -1,4 +1,4 @@
-<h1 align="center">𝗛𝗼𝘄𝗱𝘆🧑🏻𝗗𝗶𝗯𝘆𝗲𝗻𝗱𝘂 𝗛𝗲𝗿𝗲</h1>
+<h1 align="center">Hello,I'm Dibyendu</h1>
 <h2 align="center">𝐴 𝑆𝑜𝑓𝑡𝑤𝑎𝑟𝑒 𝑇𝑒𝑠𝑡 𝐸𝑛𝑔𝑖𝑛𝑒𝑒𝑟 𝑓𝑟𝑜𝑚 𝐾𝑜𝑙𝑘𝑎𝑡𝑎,𝐼𝑛𝑑𝑖𝑎,𝐷𝑒𝑒𝑝𝑙𝑦 𝐷𝑟𝑖𝑣𝑒𝑛 𝑏𝑦 𝑃𝑎𝑠𝑠𝑖𝑜𝑛 𝑓𝑜𝑟 𝐴𝑢𝑡𝑜𝑚𝑎𝑡𝑖𝑜𝑛.</h2>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dibyendugithub&label=Profile%20views&color=0e75b6&style=flat" alt="dibyendugithub" /> </p>
